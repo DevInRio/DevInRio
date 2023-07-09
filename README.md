@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lephrogfish&label=Profile%20views&color=0e75b6&style=flat" alt="lephrogfish" /> </p>
 
-- 🔭 I’m currently working on **not going insane**
+-  I’m currently working on **not going insane**
 
-- 💬 Ask me about **C# help, unity help, and anything around that**
+-  Ask me about **C# help, unity help, and anything around that**
 
-- 📫 How to reach me **you can reach me on discord @LEPHROGFISH**
+-  How to reach me **you can reach me on discord @LEPHROGFISH**
 
-- ⚡ Fun fact **I am secretly a fish**
+-  Fun fact **I am secretly a fish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
